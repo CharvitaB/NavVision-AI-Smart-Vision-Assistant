@@ -1,4 +1,4 @@
-# 👓 Mevice – AI Smart Vision Assistant
+# AI Smart Vision Assistant
 
 ## Overview
 Mevice is an AI-powered smart wearable designed to assist visually impaired individuals by detecting obstacles and providing real-time voice guidance for safer navigation.
